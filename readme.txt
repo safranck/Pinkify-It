@@ -19,11 +19,13 @@ Have you ever sat and wondered, "I wish I could make my website just pink!"? Wel
 This section describes how to install the plugin and get it working.
 
 1. Go to Plugins > Add New in the Dashboard.
-2. Click to browse for pinkify.zip.
+2. Click to browse for pinkify.zip to upload.
+3. No configuration, just activate and you should be pink!
  or
 
 1. Alternatively, you can copy the contents `pinkify.zip` to the `/wp-content/plugins/pinkify/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. There are no configuration or settings, just activate and it makes your site pink.
 
 == Frequently Asked Questions ==
 
