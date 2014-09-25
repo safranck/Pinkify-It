@@ -50,6 +50,6 @@ I'll let you know later.
 == Upgrade Notice ==
 
 = 1.0 =
-No upgrades available at this time.
+* No upgrades available at this time.
 
 
