@@ -5,14 +5,6 @@ Pinkify! your theme and make it dark pink with light text. Includes nice color f
 
 
 === Pinkify! ===
-Contributors: suzettewds
-Donate link: http://suzettefranck.com/
-Tags: pink, theme
-Requires at least: 3.4
-Tested up to: 4.0
-Stable tag: 4.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Join the pink craze and make your theme pink easily.
 
@@ -27,7 +19,8 @@ This section describes how to install the plugin and get it working.
 1. Go to Plugins > Add New in the Dashboard.
 2. Click to browse for pinkify.zip to upload.
 3. No configuration, just activate and you should be pink!
- or
+
+or
 
 1. Alternatively, you can copy the contents `pinkify.zip` to the `/wp-content/plugins/pinkify/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
