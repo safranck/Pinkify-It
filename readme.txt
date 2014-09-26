@@ -1,6 +1,6 @@
-=== Pinkify! ===
-Contributors: suzettewds
-Donate link: http://suzettefranck.com/
+=== Pinkify It! ===
+Contributors: suzettefranck
+Donate link: http://suzettefranck.com/donate
 Tags: pink, theme
 Requires at least: 3.4
 Tested up to: 4.0
