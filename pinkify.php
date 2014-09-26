@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Pinkify!
- * Plugin URI: http://suzettefranck.com/pinkify
+ * Plugin Name: Pinkify It
+ * Plugin URI: http://suzettefranck.com/pinkify-it
  * Description: Regardless of your theme, overrides the theme's styles to make everything pretty and pink.
  * Version: 1.0
  * Author: Suzette Franck
- * Author URI: http://suzettefranck.com
+ * Author URI: http://suzettefranck.com/
  * License: GPL2
  */
 

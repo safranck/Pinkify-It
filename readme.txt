@@ -23,7 +23,7 @@ This section describes how to install the plugin and get it working.
 3. No configuration, just activate and you should be pink!
  or
 
-1. Alternatively, you can copy the contents `pinkify.zip` to the `/wp-content/plugins/pinkify/` directory.
+1. Alternatively, you can copy the contents `pinkify.zip` to the `/wp-content/plugins/pinkify-it/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. There are no configuration or settings, just activate and it makes your site pink.
 
@@ -46,7 +46,7 @@ I'll let you know later.
 == Changelog ==
 
 = 1.0 =
-* Pinkify! plugin was born on September 25, 2014, by Suzette Franck.
+* Pinkify It! plugin was born on September 25, 2014, by Suzette Franck.
 
 == Upgrade Notice ==
 
