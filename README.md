@@ -1,10 +1,10 @@
-Pinkify!
+Pinkify It!
 =======
 
-Pinkify! your theme and make it dark pink with light text. Includes nice color for logged in admin bar! Very simple plugin, only changes the background and font colors.
+Pinkify It! your theme and make it dark pink with light text. Includes nice color for logged in admin bar! Very simple plugin, only changes the background and font colors.
 
 
-=== Pinkify! ===
+=== Pinkify It! ===
 
 Join the pink craze and make your theme pink easily.
 
@@ -22,7 +22,7 @@ This section describes how to install the plugin and get it working.
 
 or
 
-1. Alternatively, you can copy the contents `pinkify.zip` to the `/wp-content/plugins/pinkify/` directory.
+1. Alternatively, you can copy the contents `pinkify.zip` to the `/wp-content/plugins/pinkify-it/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. There are no configuration or settings, just activate and it makes your site pink.
 
@@ -38,14 +38,14 @@ I'll let you know later.
 
 == Screenshots ==
 
-1. (screenshot-1.png) Logged in appearance of default WordPress theme, Twenty Fourteen, with "Pinkify!" plugin activated. 
-2. (screenshot-2.png) Logged in appearance of default WordPress theme, Twenty Fourteen, with "Pinkify!" plugin *NOT ACTIVATED*.
-3. (screenshot-3.png) Logged out appearance of default WordPress theme, Twenty Fourteen, with "Pinkify!" plugin activated. 
+1. (screenshot-1.png) Logged in appearance of default WordPress theme, Twenty Fourteen, with "Pinkify It!" plugin activated. 
+2. (screenshot-2.png) Logged in appearance of default WordPress theme, Twenty Fourteen, with "Pinkify It!" plugin *NOT ACTIVATED*.
+3. (screenshot-3.png) Logged out appearance of default WordPress theme, Twenty Fourteen, with "Pinkify It!" plugin activated. 
 
 == Changelog ==
 
 = 1.0 =
-* Pinkify! plugin was born on September 25, 2014, by Suzette Franck.
+* Pinkify It! plugin was born on September 25, 2014, by Suzette Franck.
 
 == Upgrade Notice ==
 
