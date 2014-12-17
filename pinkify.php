@@ -32,7 +32,3 @@ add_action( 'wp_enqueue_scripts', 'saf_pinkify_styles' );
        wp_register_style( 'saf-pinkify', plugins_url('pinkify.css', __FILE__)  );
        wp_enqueue_style( 'saf-pinkify' );
    }
-
-
-
-?>
