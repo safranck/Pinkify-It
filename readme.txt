@@ -1,5 +1,5 @@
 === Pinkify It! ===
-Contributors: suzettefranck
+Contributors: suzetteannettefranck
 Donate link: http://suzettefranck.com/donate
 Tags: pink, theme
 Requires at least: 3.4
